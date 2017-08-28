@@ -1,0 +1,125 @@
+
+h1
+{
+	border: 3px inset white;
+	opacity: 0.7;
+	text-align: center;
+	background-color: white;
+	height: 50px;
+}
+
+#intro
+{
+	border: 3px inset white;
+	opacity: 0.7;
+	background-color: white;
+	width: 600px;
+}
+
+#roswell
+{
+	border: 3px inset white;
+	opacity: 0.7;
+	background-color: white;
+	width: 600px;
+	
+}
+
+
+#reptilians
+{
+	border: 3px inset white;
+	opacity: 0.7;
+	background-color: white;
+	left: 605px;
+	width: 1000px;
+	position: relative;
+	
+}
+
+#ancient
+{
+	border: 3px inset white;
+	opacity: 0.7;
+	background-color: white;
+}
+
+
+
+body
+{
+	background-image: url("../images/Aliens.jpg");
+	background-size: cover;
+	background-repeat: no repeat;
+	background-attachment: fixed;
+}
+
+#image
+{
+	border: 2px white inset;
+	border-radius: 20px 100px;
+}
+
+#kiff
+{
+	position: absolute;
+	height: 600px;
+	width: 600px;
+	top: 170px;
+	left: 800px;
+	-webkit-transition: all 1s 0s;
+	-moz-transition: all 1s 0s;
+	opacity: 0.9;
+	filter: alpha(opacity=40);
+}
+
+#kiff:hover
+{
+	-webkit-filter: blur;
+	-moz-filter: blur;
+	opacity:0;
+	filter: alpha(opacity=0);
+	
+	
+}
+
+#obama
+{
+	position: absolute;
+	height: 200px;
+	width: 550px;
+	left: 25px;
+	top: 890px;
+}
+
+#ancient
+{
+	position: relative;
+	width: 600px;
+}
+
+#astro
+{
+	position: absolute;
+	left: 614px;
+	top: 1114px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
